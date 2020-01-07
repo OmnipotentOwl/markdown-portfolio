@@ -1,1 +1,4 @@
-Replace this with your name, and include a header.
+# Contact Info
+Github: OmnipotentOwl
+
+Twitter: Omnipotent0wl
