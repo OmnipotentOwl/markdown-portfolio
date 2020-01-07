@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Enjoy being able to help people with the with tough problems and enable them to be more sucessfull in their endevors. I spend a fair amount of time working with **Microsoft Azure**, and writing new software in **C#** and **Xamarin**.
